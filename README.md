@@ -9,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrcoso&layout=compact&hide_border=true&title_color=48D1CC&text_color=DCDCDC&bg_color=0d1117" />
 </div>
 
-<div align="center"><br>
+<div align="center">
   <img align="center" alt="Java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="IntelliJ" height="140" width="55" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg">
   <img align="center" alt="Android" height="140" width="65" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
